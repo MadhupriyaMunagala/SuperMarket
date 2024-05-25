@@ -139,7 +139,7 @@ a {
 .layout_padding {
     padding-bottom: 0px;
     padding-top: 90px;
-}}
+}
 
 
 .header_main{ width: 100%; float: left; }
@@ -168,9 +168,7 @@ nav.main-menu {
     margin-left: 0;
 }
 
-.taital{
 
-}
 
 .banner_section_start{
 	width: 100%;
@@ -316,7 +314,7 @@ nav.main-menu {
 
  .about_text{
  	width: 100%;
- 	float: left;
+ 	float: right;
  	color: #fa3e19;
  	font-size: 50pt;
  	border-bottom: 3px solid #111111;
